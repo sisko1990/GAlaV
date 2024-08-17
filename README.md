@@ -3,3 +3,6 @@
 
 ## Beschreibung
 Ist ein PowerShell-Skript, um via GroupAlarm-API die Alarmierungsinformationen abzufragen und dann als strukturierte Datei für den EDP Einsatzserver zur Verfügung zu stellen.
+
+## Versionierung
+Dieses PowerShell-Skript wird nach den Vorgaben des [Semantic Versioning](https://semver.org/lang/de/) versioniert.
