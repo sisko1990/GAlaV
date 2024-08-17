@@ -1,2 +1,2 @@
 # GAlaV
-EDP Einsatzserver: GroupAlarm-Alarmierungsverarbeitung
+EDP Einsatzserver: **G**roup**Ala**rm-Alarmierungs**v**erarbeitung
