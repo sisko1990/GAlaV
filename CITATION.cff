@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: >-
+  GAlav: GroupAlarm-Alarmierungsverarbeitung für „EDP
+  Einsatzserver“
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jan Erik
+    family-names: Zassenhaus
+repository-code: 'https://github.com/sisko1990/GAlav'
+url: 'https://github.com/sisko1990/GAlav'
+abstract: >-
+  Ist ein PowerShell-Skript, um via GroupAlarm-API die
+  Alarmierungsinformationen abzufragen und dann als
+  strukturierte Datei für den EDP Einsatzserver zur
+  Verfügung zu stellen.
+license: BSD-2-Clause
+version: 1.0.0
+date-released: '2024-08-17'
